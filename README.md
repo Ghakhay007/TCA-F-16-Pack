@@ -10,6 +10,7 @@ F-16A Model Made By taktischesgenie/ghaaaaa
 Json Made By Black Mario
 Json tweaks by Caboose/Crepe
 animation and loadout help by Viper Zero
+New FM by Crepe
 
 Special thanks to:
 Nuclear Stonk for help with the creation of this project
@@ -22,6 +23,8 @@ F-16AM new Danish MLU variant with cockpit
 F-16C Block 40 latest and greatest with Lantirn + Navpod capability with cockpit
 Completely reworked loadouts
 New FM update by Crepe
+
+
 F-16AM RDAF MLU commissioned by NURD
 
 
